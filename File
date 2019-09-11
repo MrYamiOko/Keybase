@@ -1,0 +1,92 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am MrYamiOko on github.
+  * I am mryamioko (https://keybase.io/mryamioko) on keybase.
+  * I have a public key whose fingerprint is A487 656E A721 8E78 884C  7CF3 4A22 8170 A91F 2881
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cb1bbfcd1f3a4faf4df1e3af52d990b0acb601be46d91fcdae69be61ecbe63cb0a",
+      "fingerprint": "a487656ea7218e78884c7cf34a228170a91f2881",
+      "host": "keybase.io",
+      "key_id": "4a228170a91f2881",
+      "kid": "0101cb1bbfcd1f3a4faf4df1e3af52d990b0acb601be46d91fcdae69be61ecbe63cb0a",
+      "uid": "5bce65e67e8ff1880d114f4f43aa7619",
+      "username": "mryamioko"
+    },
+    "merkle_root": {
+      "ctime": 1568186179,
+      "hash_meta": "9bf0a5f54cad4fcda215d1a70efa867314a07151b5eca519aedf3509019bb99d",
+      "seqno": 6627795
+    },
+    "revoke": {
+      "sig_ids": [
+        "1b2540d592efa2e73b996a4d1b45db4a99a95fa4e65a85b63a238446a3b4e2dd0f"
+      ]
+    },
+    "service": {
+      "name": "github",
+      "username": "MrYamiOko"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568185755,
+  "expire_in": 157680000,
+  "prev": "94bc5342092a5b3423c68e991d918ca6fc0a150dc971f20af541a917de5105fb",
+  "seqno": 15,
+  "tag": "signature"
+}
+```
+
+with the key [A487 656E A721 8E78 884C  7CF3 4A22 8170 A91F 2881](https://keybase.io/mryamioko), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMK1AnicrVNtaBxFGL5rrNVgoWpJsPWDLghVD53ZnZmdOYRAlUQNxyko1mp6vrMz
+e1kud3vu7iU5QxQUAlIDxqgVa2IbGsQSY9WKSFFiVBQLflSKFEorlVBJ8eNHaNIf
+fszGihT86S7s7A7P87zP++w7n65vybRma2OdhS2Tvc3skfl6I9MzOLFnyJKhalr5
+IauiVxfdp3SclCqBsvIWwgh7Ekvpewr7DhAffKJ8rB3wqa2EQBKBJxnCUhOmBDY4
+0ExIzbD2zNPxDMDKWX5QK+uoHgW1xMgC4S6jTINrY65dzjnxXM93CNg2xy4CI2Rz
+jg2xN4xThjEnIda3BqHZMx+lVXv/gf+ffTdW5aj0NKOauZr7PuYcKYyJb24HwGVY
+pMBYRzWoaoOuRk2oBmEltIZzVlVHlT5disIwSdP1kiDFYMo45gy7wnQIcW+pqhMw
+VCF9BNSnxANFUk82pgqDi7QPnLkOJoBcTLGk2gOKBWjlOxQJhIWUQihjJNaP1UIr
+z5jtuoIaB5HuDys6LR4HZZNbbOUftrC0KUGKCtso29p1DJsBUVgSqiQBIUBQH4hp
+GziVzAHb4YQwcCTRtlLIt3qG02JRf+Ctil9ovhwkvQ15cSCF6CETSPHvQJJmPd0b
+0LJ0gV2SQU2Z+TCkfh3FQVgzARnkRVlRl9KcpQfrQaRLQYqgLuPIXDmrblpMwyPS
+ow6xkbCBSvPieIxrIbD5v9wD5nsIMEXKE64ZF2QmgWAzOa7SFCPqy3/Dw6ZUAmWj
+aSKrQdKItDU8P/fIJZlsa+bStWvSg5NpvXzDP8dp9qXLMm/thNNbDm04whdueeH7
+N+/q2nnDxpNtP5677eezU+cr7VBsQNevmaNbs1/NjM38cnDk3Za7B0aOjT7aPr7p
+/n0v3tv+wObCmaiLLXz9xG+dp19dd/ypQ0uFiS9GvlypPEf6nu386fDTo33RTaMf
+nTs4e/W3x6aeXGE3b7qve/k7trKQnFybgXdm2/6APVt3bJ6aO8vK1yyduH3mird3
+d7zfuL7lw8OfLL738rXbsp+vn1uezM3v+uaH6Kq9g8/kK+teua7ZvHP6teVtvz9+
+5cLxNbt7Tn18z5kDHXv331izn+84hR4sZu84/9mJ7rY/Wwvzi+PFXUv7F/H0UW/8
+9Te2TwzskN2Z6Q82Frsmh/aN/QXGGYR9
+=uHeb
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mryamioko
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mryamioko
+```
